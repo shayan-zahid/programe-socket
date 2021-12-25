@@ -26,7 +26,7 @@ int main(){
    while(true){
          sock =socket(AF_INET,SOCK_STREAM,NULL);
 
-   address.sin_addr.s_addr = inet_addr("192.168.0.102");
+   address.sin_addr.s_addr = inet_addr("192.168.0.103    ");
    address.sin_family = AF_INET;
    address.sin_port = htons(10102);
 
