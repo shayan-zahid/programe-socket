@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1639673434 source:d:\_semester no 3\data structure & algo\practice of the chat system\linklist\claint-side\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<WinSock2.h>
+	<Windows.h>
+	<sstream>
+	<string.h>
+
